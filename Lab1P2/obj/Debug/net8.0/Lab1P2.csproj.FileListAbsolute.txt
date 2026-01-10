@@ -1,0 +1,15 @@
+/workspaces/OSNCP2209/Lab1P2/bin/Debug/net8.0/Lab1P2
+/workspaces/OSNCP2209/Lab1P2/bin/Debug/net8.0/Lab1P2.deps.json
+/workspaces/OSNCP2209/Lab1P2/bin/Debug/net8.0/Lab1P2.runtimeconfig.json
+/workspaces/OSNCP2209/Lab1P2/bin/Debug/net8.0/Lab1P2.dll
+/workspaces/OSNCP2209/Lab1P2/bin/Debug/net8.0/Lab1P2.pdb
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.AssemblyInfoInputs.cache
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.AssemblyInfo.cs
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.csproj.CoreCompileInputs.cache
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.sourcelink.json
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.dll
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/refint/Lab1P2.dll
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.pdb
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/Lab1P2.genruntimeconfig.cache
+/workspaces/OSNCP2209/Lab1P2/obj/Debug/net8.0/ref/Lab1P2.dll
